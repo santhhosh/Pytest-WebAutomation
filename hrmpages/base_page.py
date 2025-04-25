@@ -36,3 +36,7 @@ class BasePage(Selenium_Helper):
         self.webelement_click(Switch_To)
         self.webelement_click(Windows)
         self.webelement_click(click_button)
+        #testing purpose
+
+    def switchto_frames(self):
+        self.webelement_click(Switch_To)
