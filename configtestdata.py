@@ -1,0 +1,12 @@
+BaseUrl = "https://demo.automationtesting.in/Register.html"
+
+firstname = "santosh"
+lastname = "patnana"
+address = "Bangalore"
+email = "santosh@gmail.com"
+phone = "8050439855"
+gender = "Male"
+#language = "Bulgarian"
+#country = "Denmark"
+password = "santosh@123"
+confirm_password = "santosh@123"
